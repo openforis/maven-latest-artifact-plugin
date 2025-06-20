@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Maven Latest Artifact URL Generator with Date
- * Plugin URI:  https://github.com/yourname/maven-latest-artifact-url-generator
+ * Plugin URI:  https://github.com/openforis/maven-latest-artifact-plugin
  * Description: Generates a URL to the latest Maven artifact, including its version and last updated date.
  * Version:     1.1.0
  * Author:      Stefano Ricci, Alfonso Sanchez-Paus
  * Author URI:  https://openforis.org
  * License:     MIT
  * License URI: https://github.com/openforis/maven-latest-artifact-plugin/blob/master/LICENSE
- * Text Domain: maven-latest-artifact-url-generator
+ * Text Domain: maven-latest-artifact-url-generator-with-date
  */
 
 // Register the shortcode [maven_latest_artifact]

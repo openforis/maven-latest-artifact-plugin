@@ -1,12 +1,12 @@
 # Maven Latest Artifact URL Generator with Date
 
 **Version:** 1.1.0
-
+**Requires at least: 4.7
+**Tested up to: 6.8
+**Stable tag: 1.1.0
 **Authors:** Stefano Ricci, Alfonso Sanchez-Paus
-
 **License:** MIT
-
-**Homepage:** [https://github.com/yourname/maven-latest-artifact-url-generator](https://github.com/yourname/maven-latest-artifact-url-generator)
+**Homepage:** [https://github.com/openforis/maven-latest-artifact-plugin](https://github.com/openforis/maven-latest-artifact-plugin)
 
 ---
 

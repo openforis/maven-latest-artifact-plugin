@@ -1,8 +1,11 @@
 # Maven Latest Artifact URL Generator with Date
 
 **Version:** 1.1.0
+
 **Authors:** Stefano Ricci, Alfonso Sanchez-Paus
+
 **License:** MIT
+
 **Homepage:** [https://github.com/yourname/maven-latest-artifact-url-generator](https://github.com/yourname/maven-latest-artifact-url-generator)
 
 ---
